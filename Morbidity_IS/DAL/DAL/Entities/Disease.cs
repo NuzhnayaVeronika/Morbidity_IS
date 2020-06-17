@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataFilling.DAL.Entities
+namespace DAL.Entities
 {
     class Disease
     {
